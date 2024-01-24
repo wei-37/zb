@@ -4,7 +4,7 @@ http://117.174.81.63:50080/newlive/live/hls/1/live.m3u8
 #EXTINF:-1,CHC高清电影
 http://119.131.240.239:8089/hls/110/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://113.102.130.106:808/hls/118/index.m3u8
 #EXTINF:-1,CHC家庭电影
 http://58.19.13.92:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1,湖南卫视
@@ -15,5 +15,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1042_1.m3u8
 #EXTINF:-1,CCTV6
 http://119.62.142.2:9901/tsfile/live/0006_1.m3u8
-#EXTINF:-1,CCTV8
-http://222.217.246.54:8282/tsfile/live/1019_1.m3u8
+#EXTINF:-1,SCTV-3
+http://171.221.240.108:808/hls/33/index.m3u8
+#EXTINF:-1，CCTV-3
+http://113.110.72.132:808/hls/115/index.m3u8
+#EXTINF:-1，4K电影
+http://lhq-cctv.8866.org:18181/tsfile/live/1098_1.m3u8
+#EXTINF:-1，珠江台
+http://222.218.158.140:8181/tsfile/live/1000_1.m3u8
+#EXTINF:-1，CCTV3
+http://121.19.134.215:808/tsfile/live/0003_1.m3u8
+#EXTINF:-1，CCTV5
+http://121.19.134.215:808/tsfile/live/0005_1.m3u8
