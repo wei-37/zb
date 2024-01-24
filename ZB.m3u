@@ -13,3 +13,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1,江苏卫视
 http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1042_1.m3u8
+#EXTINF:-1,CCTV6
+http://119.62.142.2:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1,CCTV8
+http://222.217.246.54:8282/tsfile/live/1019_1.m3u8
