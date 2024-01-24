@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,CCTV1[高清]
+http://117.174.81.63:50080/newlive/live/hls/1/live.m3u8
