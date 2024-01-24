@@ -53,3 +53,5 @@ http://ictv.91tv.top:9901/tsfile/live/0120_1.m3u8
 http://121.19.134.215:808/tsfile/live/0002_1.m3u8
 #EXTINF:-1,CCTV3综艺
 http://121.19.134.215:808/tsfile/live/0003_1.m3u8
+#EXTINF:-1,重庆卫视高清
+http://121.19.134.215:808/tsfile/live/1027_1.m3u8
