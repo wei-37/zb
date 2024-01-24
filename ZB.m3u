@@ -27,3 +27,15 @@ http://222.218.158.140:8181/tsfile/live/1000_1.m3u8
 http://121.19.134.215:808/tsfile/live/0003_1.m3u8
 #EXTINF:-1,CCTV5
 http://121.19.134.215:808/tsfile/live/0005_1.m3u8
+#EXTINF:-1,凤凰香港
+http://113.117.74.107:8081/hls/38/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://113.117.74.133:8081/hls/36/index.m3u8
+#EXTINF:-1,北京卫视
+http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1044_1.m3u8
+#EXTINF:-1,东方卫视
+http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1045_1.m3u8
+#EXTINF:-1,CCTV15
+http://lhq-cctv.8866.org:18181/tsfile/live/0015_1.m3u8
+#EXTINF:-1,贵州卫视
+http://lhq-cctv.8866.org:18181/tsfile/live/1097_1.m3u8
