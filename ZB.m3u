@@ -79,3 +79,15 @@ http://202311221700.iptv.hongruida.work:8800/tsfile/live/0122_1.m3u8
 http://202311221700.iptv.hongruida.work:8800/tsfile/live/0128_1.m3u8
 #EXTINF:-1,贵州卫视
 http://202311221700.iptv.hongruida.work:8800/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="•地区",「北京」北京新闻
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+#EXTINF:-1 group-title="•地区",「广东」广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+#EXTINF:-1 group-title="•地区",「广东」广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+#EXTINF:-1 group-title="•地区",「江苏」苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+#EXTINF:-1 group-title="•地区",「四川」甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 group-title="•地区",「浙江」上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
